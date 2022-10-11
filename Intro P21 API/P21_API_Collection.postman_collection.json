@@ -48,16 +48,16 @@
               },
               {
                 "key": "username",
-                "value": "{{username}}",
+                "value": "{{Madalyn.Evans}}",
                 "type": "text"
               },
               {
                 "key": "password",
-                "value": "{{password}}",
+                "value": "{{U!F53Q2T6EhQ}}",
                 "type": "text"
               }
             ],
-            "url": "{{Endpoint}}/api/security/token/",
+            "url": "{{https://sigma.tpcx.com:18343}}/api/security/token/",
             "description": "Make this call first. It retreives the bearer token and saves it."
           },
           "response": []
